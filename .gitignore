@@ -1,4 +1,5 @@
 # Virtualenv
+/venv
 #python specific
 *.pyc
  
